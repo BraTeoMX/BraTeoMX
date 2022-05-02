@@ -6,6 +6,12 @@ Por lo tanto, quiero mencionar que tengo una pagina web, la cual también tiene 
 Buscare realizar ambas conexiones para generar y potenciar desde luego mi marca personal. 
 También agradezco que leas estas líneas.
 
+## ¿Qué hago?
+
+<p> Normalmente En mi tiempo como estudiante desarrolle una negocio como WISP (Proveedor de Servicio de Internet Inalámbrico) donde instale, configure e incluso realice montaje de antenas en torres arriostradas, también me gusta los temas derivador de programación. </p>
+<p>Y con esto quiero enfocarme:</p> 
+<p>El <strong>desarrollo web</strong> es lo que mas me gusta, tanto que realice una pagina web y aprendo cosas nuevas las cuales son enormes dado todas las opciones que se pueden realizar, desde una E-commerce, un proyecto para empresas, un juego, etc. </p>
+
 Por lo pronto es todo. 
 
 Saludos 👋
