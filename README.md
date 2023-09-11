@@ -1,7 +1,7 @@
 ## Hi, Soy Brayam Teofilo Jimenez, un gusto 👋
 
 Este es un espacio para compartir mi perfil y con el tiempo tener una mejor presentación para dar a conocer mi conocimiento, así como proyectos importantes.
-Por lo tanto, quiero mencionar que tengo una pagina web, disponible para todos, es el siguiente: https://brateomx.com.
+Por lo tanto, quiero mencionar que tengo una pagina web, disponible para todos, es el siguiente: https://brayam.com.mx
 
 Buscare realizar ambas conexiones para generar y potenciar desde luego mi marca personal. 
 También agradezco que leas estas líneas, ademas de mejorar la presentacion que esta actualmente con el tiempo.
