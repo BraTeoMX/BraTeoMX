@@ -6,8 +6,12 @@ Por lo tanto, quiero mencionar que tengo una pagina web, disponible para todos, 
 Buscare realizar ambas conexiones para generar y potenciar desde luego mi marca personal. 
 También agradezco que leas estas líneas, ademas de mejorar la presentacion que esta actualmente con el tiempo.
 
-## ¿Qué hago?
+## ¿Qué hago? (Actualizacion Noviembre 2023)
 
+<p>Soy programador (porfin) y el lenguaje con el que trabajan es PHP el cual sirve de soporte para los proyectos que van solocitando en lo que se ellos llaman "automatizar procesos" que es una forma de eficientar el uso de herramientas de trabajo. </p>
+<p>El uso de la base de datos es impresindible ya que en cualquier empresa la informacion es primordial a la hora de realizar procesos, entonces gestionar los datos y usarlos para el proposito de mejorar la muestra de datos destacado, ademas que se busca agilizar la forma en la que se visualizan actualmente, es un reto interesante.</p>
+<p>Por ejemplo: el desarrollar sistemas de gestion para el uso de produccion</p>
+<br>
 <p> Normalmente En mi tiempo como estudiante desarrolle una negocio como WISP (Proveedor de Servicio de Internet Inalámbrico) donde Instalé, configuré e incluso realicé montaje en torres arriostradas, también me gusta los temas de programación. </p>
 <p>Y con esto quiero enfocarme:</p> 
 <p>El <strong>desarrollo web</strong> es lo que mas me gusta, Como ya lo mencioné, tengo un website el cual sirve para mostrar los proyectos y cosas nuevas que aprendo, por ejemplo: </p>
