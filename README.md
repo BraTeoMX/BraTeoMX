@@ -25,6 +25,20 @@ Por lo pronto es todo.
 
 Saludos 👋
 
+<h3 align="left">Languages and Tools:</h3>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="URL_DEL_ICONO_DE_PHP" alt="php" width="40" height="40"/>
+</a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="URL_DEL_ICONO_DE_LARAVEL" alt="laravel" width="40" height="40"/>
+</a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="URL_DEL_ICONO_DE_GIT" alt="git" width="40" height="40"/>
+</a>
+
 
 
 <!--
