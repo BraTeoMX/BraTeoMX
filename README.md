@@ -1,13 +1,13 @@
 ## Hi, Soy Brayam Teofilo Jimenez, un gusto 👋
 
 Este es un espacio para compartir mi perfil y con el tiempo tener una mejor presentación para dar a conocer mi conocimiento, así como proyectos importantes.
-Por lo tanto, quiero mencionar que tengo una pagina web, disponible para todos, es el siguiente: https://brayam.com.mx (Aunque por el bien de la humanidad y porque despues de 1 año el servicio me genera un costo adicional. dejara de funcionar el dominio). 
+
 
 Agradezco que leas estas líneas, ademas de mejorar la presentacion que esta actualmente.
 
-## ¿Qué hago? (Actualización Enero 2024)
+## ¿Qué hago? 
 
-<p>Soy programador (porfin) y el lenguaje con el que trabajo es PHP mediante el framework  Laravel, el cual es muy util porque facilita las estrcuturas de los sitios, y nos sirve de soporte para los proyectos que van solocitando en lo que se ellos llaman "automatizar procesos" que es una forma de eficientar el uso de herramientas de trabajo. </p>
+<p>Soy programador y el lenguaje con el que trabajo es PHP mediante el framework  Laravel, el cual es muy util porque facilita las estrcuturas de los sitios, y nos sirve de soporte para los proyectos que van solocitando en lo que se ellos llaman "automatizar procesos" que es una forma de eficientar el uso de herramientas de trabajo. </p>
 <p>El uso de la base de datos es impresindible ya que en cualquier empresa la informacion es primordial a la hora de realizar procesos, entonces gestionar los datos y usarlos para el proposito de mejorar la muestra de datos destacado, ademas que se busca agilizar la forma en la que se visualizan actualmente, es un reto interesante.</p>
 <p>Por ejemplo: el desarrollar sistemas de gestion para el uso de produccion</p>
 <br>
